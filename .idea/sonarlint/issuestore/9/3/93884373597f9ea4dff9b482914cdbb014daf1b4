@@ -1,0 +1,11 @@
+
+M
+java:S1172	"+Remove this unused method parameter "args".(Ξ±ύÿÿÿÿ8αόγωΰ1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Φ§8γόγωΰ1
+M
+java:S1172"+Remove this unused method parameter "args".(ΩεΔωόÿÿÿÿ8ςόγωΰ1
+G	java:S106"+Replace this use of System.out by a logger.(ΊΩ…Δ8σόγωΰ1
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΆΓ•ψÿÿÿÿ8½ρεωΰ1
+M
+java:S1172""+Remove this unused method parameter "args".(ΆΓ•ψÿÿÿÿ8½ρεωΰ1
+G	java:S106("+Replace this use of System.out by a logger.(‚¨Φ§8ªΉεωΰ1
